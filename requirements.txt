@@ -1,0 +1,10 @@
+tqdm
+torch
+transformers
+scikit-learn
+matplotlib
+pandas
+streamlit
+seaborn
+accelerate
+umap-learn
